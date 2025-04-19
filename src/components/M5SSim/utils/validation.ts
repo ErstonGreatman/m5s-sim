@@ -23,7 +23,7 @@ export const validateInput = (input: string): string | null => {
 
     charCount[char]++;
 
-    if (charCount[char] > 2) {
+    if (charCount[char] > 2 && (charCount['U'] > 0 || charCount['D'] > 0)) {
       return `Character '${char}' appears more than twice`;
     }
   }
