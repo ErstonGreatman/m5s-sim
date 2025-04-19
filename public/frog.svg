@@ -1,0 +1,20 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Brown Afro -->
+  <circle cx="150" cy="100" r="90" fill="#5C4033" />
+
+  <!-- Frog Head -->
+  <ellipse cx="150" cy="180" rx="80" ry="60" fill="#6CC24A" stroke="#3A7A1E" stroke-width="4"/>
+
+  <!-- Frog Eyes -->
+  <circle cx="110" cy="140" r="20" fill="white" stroke="#3A7A1E" stroke-width="3"/>
+  <circle cx="190" cy="140" r="20" fill="white" stroke="#3A7A1E" stroke-width="3"/>
+  <circle cx="110" cy="140" r="8" fill="black"/>
+  <circle cx="190" cy="140" r="8" fill="black"/>
+
+  <!-- Frog Smile -->
+  <path d="M110 200 Q150 230 190 200" stroke="#3A7A1E" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- Nostril dots -->
+  <circle cx="135" cy="185" r="3" fill="#3A7A1E"/>
+  <circle cx="165" cy="185" r="3" fill="#3A7A1E"/>
+</svg>
